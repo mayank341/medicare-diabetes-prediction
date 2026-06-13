@@ -54,7 +54,7 @@ Diabetes-Prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Diabetes-Prediction.git
+git clone https://github.com/mayank341/medicare-diabetes-prediction.git
 
 cd Diabetes-Prediction
 ```
